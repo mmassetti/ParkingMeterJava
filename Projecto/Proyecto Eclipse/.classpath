@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Usuario/Google Drive/UNS/Tercer año/3er año Juani/3año2016/BD/Proyecto4/Fuentes/mysql-connector-java-5.1.32-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usuario/Google Drive/UNS/Tercer año/3er año Juani/3año2016/BD/Proyecto4/Fuentes/quicktable-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programacion/Universidad/Bases de datos/Proyectos/Proyecto Juani Cangelosi/Fuentes/mysql-connector-java-5.1.32-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Programacion/Universidad/Bases de datos/Proyectos/Proyecto Juani Cangelosi/Fuentes/quicktable-3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
